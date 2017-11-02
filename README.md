@@ -24,6 +24,7 @@
 
 ## Commandline Utilities
 
+- [Homebrew](https://brew.sh/index.html) :beer:
 - [Macup](https://github.com/lra/mackup) :tractor:
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
