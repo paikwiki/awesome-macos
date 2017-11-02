@@ -9,8 +9,8 @@
 - [Dr.Cleaner](https://itunes.apple.com/us/app/dr-cleaner-disk-mem-free-up/id921458519?mt=12) :pill:
 - [Dropbox](https://www.dropbox.com/) :cloud:
 - [Firefox](https://www.mozilla.org/firefox/) :surfer:
-- [Google Chrome](https://www.google.com/chrome) :surfer:
-- [Google Drive](https://www.google.com/drive/) :minidisc:
+- [Chrome](https://www.google.com/chrome) :surfer:
+- [Backup and Sync](https://www.google.com/drive/download/) :minidisc:
 - [iTerm2](https://www.iterm2.com/) :pager:
 - [Kakaotalk](http://www.kakao.com/talk) :speech_balloon:
 - [Mini Calendar](https://itunes.apple.com/kr/app/mini-calendar/id1088779979?mt=12) :date:
