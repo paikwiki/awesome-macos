@@ -12,6 +12,7 @@
 - [Chrome](https://www.google.com/chrome) :surfer:
 - [Backup and Sync](https://www.google.com/drive/download/) :minidisc:
 - [iTerm2](https://www.iterm2.com/) :pager:
+  - [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) :rainbow:
 - [Kakaotalk](http://www.kakao.com/talk) :speech_balloon:
 - [Mini Calendar](https://itunes.apple.com/kr/app/mini-calendar/id1088779979?mt=12) :date:
 - [PhotoScape X](http://x.photoscape.org/) :camera:
@@ -27,6 +28,7 @@
 - [Homebrew](https://brew.sh/index.html) :beer:
 - [Macup](https://github.com/lra/mackup) :tractor:
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
+- [Git Radar](https://github.com/michaeldfallen/git-radar) :satellite:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
 
 ## Fonts
