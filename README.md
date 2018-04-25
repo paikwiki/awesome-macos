@@ -21,7 +21,6 @@
 - [Galeri](https://github.com/michealparks/galeri-www) :art:
 - [PhotoScape X](http://x.photoscape.org/) :camera:
 - [Sequel Pro](https://www.sequelpro.com/) :floppy_disk:
-- [Slack](https://slack.com/) :speech_balloon:
 - [Spectacle](https://www.spectacleapp.com/) :eyeglasses:
 - [Telegram](https://telegram.org/) :speech_balloon:
 - [Tunnelbear](https://www.tunnelbear.com/) :airplane:
