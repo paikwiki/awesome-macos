@@ -18,7 +18,7 @@
 - [Kakaotalk](http://www.kakao.com/talk) :speech_balloon:
 - [Franz](https://meetfranz.com/) :speech_balloon:
 - [Mini Calendar](https://itunes.apple.com/kr/app/mini-calendar/id1088779979?mt=12) :date:
-- [Galeri](https://github.com/michealparks/galeri-www) :art:
+- [Galeri](https://github.com/michealparks/galeri) :art:
 - [PhotoScape X](http://x.photoscape.org/) :camera:
 - [Sequel Pro](https://www.sequelpro.com/) :floppy_disk:
 - [Spectacle](https://www.spectacleapp.com/) :eyeglasses:
