@@ -36,7 +36,7 @@
 
 ## Fonts
 
-- [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) :beetle:
+- [Space Mono](https://fonts.google.com/specimen/Space+Mono) :beetle:
 - [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) :feet:
 
 ## License
