@@ -33,6 +33,7 @@
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
 - [Git Radar](https://github.com/michaeldfallen/git-radar) :satellite:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
+- [Newsboat](https://newsboat.org/) :e-mail:
 
 ## Fonts
 
