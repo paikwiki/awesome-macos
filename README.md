@@ -34,6 +34,7 @@
 - [Git Radar](https://github.com/michaeldfallen/git-radar) :satellite:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
 - [Newsboat](https://newsboat.org/) :e-mail:
+- [w3m](http://w3m.sourceforge.net/) :surfer:
 
 ## Fonts
 
