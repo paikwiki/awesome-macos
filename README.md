@@ -13,6 +13,7 @@
 - [Brave](https://brave.com/) :surfer:
 - [MenuTube](https://edanchenkov.github.io/MenuTube/) :tv:
 - [Backup and Sync](https://www.google.com/drive/download/) :minidisc:
+- [Macs Fan Control](https://www.crystalidea.com/macs-fan-control) :flags:
 - [iTerm2](https://www.iterm2.com/) :pager:
   - [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) :rainbow:
 - [Kakaotalk](http://www.kakao.com/talk) :speech_balloon:
