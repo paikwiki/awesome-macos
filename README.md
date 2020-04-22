@@ -11,8 +11,6 @@
 - [Firefox](https://www.mozilla.org/firefox/) :surfer:
 - [Chrome](https://www.google.com/chrome) :surfer:
 - [Brave](https://brave.com/) :surfer:
-- [MenuTube](https://edanchenkov.github.io/MenuTube/) :tv:
-- [Backup and Sync](https://www.google.com/drive/download/) :minidisc:
 - [Macs Fan Control](https://www.crystalidea.com/macs-fan-control) :flags:
 - [iTerm2](https://www.iterm2.com/) :pager:
   - [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) :rainbow:
@@ -30,16 +28,18 @@
 ## Commandline Utilities
 
 - [Homebrew](https://brew.sh/index.html) :beer:
-- [Macup](https://github.com/lra/mackup) :tractor:
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
 - [Git Radar](https://github.com/michaeldfallen/git-radar) :satellite:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
+- [Rm-trash](https://github.com/nateshmbhat/rm-trash) :truck:
 - [Newsboat](https://newsboat.org/) :e-mail:
 - [w3m](http://w3m.sourceforge.net/) :surfer:
 - [License](https://www.npmjs.com/package/license) :page_with_curl:
 
 ## Fonts
 
+- [Cascadia](https://github.com/microsoft/cascadia-code) :jack_o_lantern:
+- [DungGeunMo](https://cactus.tistory.com/193) :tv:
 - [Space Mono](https://fonts.google.com/specimen/Space+Mono) :beetle:
 - [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) :feet:
 
