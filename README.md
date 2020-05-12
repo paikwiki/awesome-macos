@@ -4,7 +4,7 @@
 
 - [Bestres](https://bestres.wojtek.im/) :tv:
 - [Calibre](https://calibre-ebook.com/) :books:
-- [Clipmenu](http://www.clipmenu.com/) :memo:
+- [Clipy](https://clipy-app.com/) :memo:
 - [Docker CE for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac) :anchor:
 - [Dr.Cleaner](https://itunes.apple.com/us/app/dr-cleaner-disk-mem-free-up/id921458519?mt=12) :pill:
 - [Dropbox](https://www.dropbox.com/) :cloud:
