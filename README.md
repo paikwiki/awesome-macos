@@ -20,7 +20,7 @@
 - [Galeri](https://github.com/michealparks/galeri) :art:
 - [PhotoScape X](http://x.photoscape.org/) :camera:
 - [Sequel Pro](https://www.sequelpro.com/) :floppy_disk:
-- [Spectacle](https://www.spectacleapp.com/) :eyeglasses:
+- [Rectangle](https://rectangleapp.com) :eyeglasses:
 - [Telegram](https://telegram.org/) :speech_balloon:
 - [Tunnelbear](https://www.tunnelbear.com/) :airplane:
 - [Visual Studio Code](https://code.visualstudio.com/) :art:
