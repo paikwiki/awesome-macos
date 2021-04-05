@@ -6,7 +6,6 @@
 - [Calibre](https://calibre-ebook.com/) :books:
 - [Clipy](https://clipy-app.com/) :memo:
 - [Docker CE for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac) :anchor:
-- [Dr.Cleaner](https://itunes.apple.com/us/app/dr-cleaner-disk-mem-free-up/id921458519?mt=12) :pill:
 - [Dropbox](https://www.dropbox.com/) :cloud:
 - [Firefox](https://www.mozilla.org/firefox/) :surfer:
 - [Chrome](https://www.google.com/chrome) :surfer:
