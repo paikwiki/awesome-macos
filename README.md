@@ -27,6 +27,7 @@
 ## Commandline Utilities
 
 - [Homebrew](https://brew.sh/index.html) :beer:
+- [Tldr](https://tldr.sh/) :page_facing_up:
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
 - [Git Radar](https://github.com/michaeldfallen/git-radar) :satellite:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
