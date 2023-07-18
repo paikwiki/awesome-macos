@@ -30,7 +30,7 @@
 - [Homebrew](https://brew.sh/index.html) :beer:
 - [Tldr](https://tldr.sh/) :page_facing_up:
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
-- [Git Radar](https://github.com/michaeldfallen/git-radar) :satellite:
+- [gitHUD](https://github.com/gbataille/gitHUD) :mag:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
 - [Rmtrash-for-Mac-OS-X](https://github.com/sebikeller/rmtrash-for-Mac-OS-X) :truck:
 - [Newsboat](https://newsboat.org/) :e-mail:
