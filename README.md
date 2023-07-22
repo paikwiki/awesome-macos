@@ -32,7 +32,7 @@
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
 - [gitHUD](https://github.com/gbataille/gitHUD) :mag:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
-- [Rmtrash-for-Mac-OS-X](https://github.com/sebikeller/rmtrash-for-Mac-OS-X) :truck:
+- [Trash](https://github.com/ali-rantakari/trash) :truck:
 - [Newsboat](https://newsboat.org/) :e-mail:
 - [w3m](http://w3m.sourceforge.net/) :surfer:
 - [License](https://www.npmjs.com/package/license) :page_with_curl:
