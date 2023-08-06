@@ -32,6 +32,7 @@
 - [Tig](http://jonas.nitro.dk/tig/) :rainbow:
 - [gitHUD](https://github.com/gbataille/gitHUD) :mag:
 - [Mac-Cli](https://github.com/guarinogabriel/Mac-CLI) :tophat:
+- [Brightness](https://github.com/nriley/brightness) :high_brightness:
 - [Trash](https://github.com/ali-rantakari/trash) :truck:
 - [Newsboat](https://newsboat.org/) :e-mail:
 - [w3m](http://w3m.sourceforge.net/) :surfer:
