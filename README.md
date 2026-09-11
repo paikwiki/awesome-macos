@@ -24,6 +24,7 @@
 - [Telegram](https://telegram.org/) :speech_balloon:
 - [Tunnelbear](https://www.tunnelbear.com/) :airplane:
 - [Visual Studio Code](https://code.visualstudio.com/) :art:
+- [Orkas](https://orkas.ai/?source=gh_paikwiki) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## Commandline Utilities
 
