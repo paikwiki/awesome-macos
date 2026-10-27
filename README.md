@@ -21,6 +21,7 @@
 - [Sequel Pro](https://www.sequelpro.com/) :floppy_disk:
 - [Recasto](https://apps.apple.com/kr/app/recasto-convert-pdf-to-images-images-to-pdf/id1144192021) :books:
 - [Rectangle](https://rectangleapp.com) :eyeglasses:
+- [Command Reopen](https://commandreopen.com) :eyeglasses: Makes Cmd+Tab restore minimized and closed windows with zero permissions
 - [Telegram](https://telegram.org/) :speech_balloon:
 - [Tunnelbear](https://www.tunnelbear.com/) :airplane:
 - [Visual Studio Code](https://code.visualstudio.com/) :art:
